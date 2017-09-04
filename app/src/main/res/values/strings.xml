@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GBookApp</string>
+
+    <string name="no_results_text">No matching books found</string>
+    <string name="no_network_text">Network not available</string>
+
+    <string name="query_hint">Enter book search parameter</string>
+    <string name="run_query">Search</string>
+</resources>
